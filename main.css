@@ -1,0 +1,7 @@
+body{
+    background-color: cadetblue;
+}
+h1:hover{
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
